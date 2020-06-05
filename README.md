@@ -66,8 +66,8 @@ Geschäftsjahr ist das Kalenderjahr.
 
 Organe des Vereins sind:
 
-    * die Mitgliederversammlung
-    * der Vorstand
+  * die Mitgliederversammlung
+  * der Vorstand
 
 ## § 8 Mitgliederversammlung
 
@@ -108,9 +108,9 @@ Organe des Vereins sind:
 
 1. Der Vorstand besteht mindestens aus drei Mitgliedern:
 
-    * I. Vorsitzende/r
-    * II. Vorsitzende/r
-    * Kassierer/in
+  * I. Vorsitzende/r
+  * II. Vorsitzende/r
+  * Kassierer/in
 
 2. Die Mitgliederversammlung kann weitere Vorstandsmitglieder bestellen, wenn es weitere Aufgaben zur Bewältigung der täglichen Vereinsaufgaben gibt.
 
