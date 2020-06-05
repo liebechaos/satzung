@@ -14,13 +14,9 @@ Geschäftsjahr ist das Kalenderjahr.
 Dieses Ziel soll insbesondere verwirklicht werden durch:
 
 * die Durchführung und Förderung von neuen Kulturformaten in Form von Veranstaltungen wie Festivals, Ausstellungen und Konzerten und ähnlichem
-
 * Forschungsprojekten zur Untersuchung neuer Formate von Kunst und Kultur, deren Ergebnisse frei und öffentlich verfügbar gemacht werden
-
 * die Organisation von öffentlichen Lesungen, Diskussionsforen, Workshops und ähnlichem zur Vermittlung der Projektergebnisse
-
 * die Veröffentlichung von künstlerischen und wissenschaftlichen Publikationen
-
 * die Entwicklung von quelloffener, frei verfügbarer Software, die dem Vereinszweck förderlich ist.
 
 2. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung 1977 (§51ff AO) in der jeweils gültigen Fassung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
