@@ -104,7 +104,7 @@ Organe des Vereins sind:
 ## § 9 Vorstand
 
 1. Der Vorstand besteht mindestens aus drei Mitgliedern:
-    
+
     * I. Vorsitzende/r
     * II. Vorsitzende/r
     * Kassierer/in
@@ -123,4 +123,4 @@ Organe des Vereins sind:
 
 ## § 11 Auflösung des Vereins
 
-Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende, gemeinnützige Körperschaft des öffentlichen Rechts.
+Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine andere steuerbegünstigte Körperschaft, deren Zweck (entsprechend §§ 52, 53, 54 AO) die Förderung von Kunst und Kultur ist.
