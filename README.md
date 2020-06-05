@@ -9,7 +9,7 @@ Geschäftsjahr ist das Kalenderjahr.
 
 ## § 2 Zweck und Gemeinnützigkeit
 
-1. Der Verein Liebe Chaos Verein e.V. dient der Ausarbeitung, Erprobung und Erforschung neuer Formate von Kunst und Kultur, die dezentral, gleichberechtigt und selbstorganisiert produziert werden. Dies sind Vorhaben, die ihre Teilnehmer/innen zum eigenständigen und eigenverantwortlichen Handeln anleiten. Hiermit soll ein öffentlichen Diskurs über die Rolle von Kunst und Kultur in einer demokratischen Gesellschaft angeregt werden.
+1. Der Verein Liebe Chaos Verein e.V. dient der Ausarbeitung, Erprobung und Erforschung neuer Formate von Kunst und Kultur, die dezentral, gleichberechtigt und selbstorganisiert produziert werden. Dies sind Vorhaben, die ihre Teilnehmer/innen zum eigenständigen und eigenverantwortlichen Handeln anleiten. Hiermit soll ein öffentlicher Diskurs über die Rolle von Kunst und Kultur in einer demokratischen Gesellschaft angeregt werden.
 
 Dieses Ziel soll insbesondere verwirklicht werden durch:
 
