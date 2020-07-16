@@ -1,12 +1,6 @@
 Satzung
 ===
 
-## Präambel
-
-*"[BLATT] 3000 is asking a lot of questions. I think it's because H3K [HOFFNUNG 3000] threw up more questions than answers. Almost every aspect of it was an experiment, this surely made it confusing at times, but it also meant that the time and space could be determined by the participants. If things are too defined, then where are the cracks to explore? This is a clip from one of my favorite moments - the Agar Agar workshop. We all sat or stood around some slowly boiling liquid, slightly thicker than water, starting to bubble gently. I think it was the 3rd day of the festival, upstairs/outside everyone was pretty tired and seemed a bit fatigued, down in the basement it was nice and calm. We started talking about the ocean, and seaweed, nothing in particular, the conversation started and stopped naturally. It reminded me of the feeling when you sit around a campfire, suddenly all interactions slow right down as people are occupied with the flickering flames and changing colors. Both these activities posses a sense of sharing, safety and community. It's hard to say why this is, it is calming and disarming. Maybe it has something to do with having a simple task or function to perform, which acts both as a shared foundation and personal safety net. The future should be Agar Agar 3000. More campfires and boiling pots to sit around, more undefined spaces, shared activities from which we can take great risks. Definite experimentation with indefinite results. Activity and reflection."*
-
-by Noneducational Newt ~ http://rhizomatic-web-zine.herokuapp.com/#publication/5a020a4789dc210012a65f2e
-
 ## § 1 Name, Sitz und Geschäftsjahr
 
 Der Verein führt den Namen "Liebe Chaos Verein". Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e. V.". Der Sitz des Vereins ist Berlin.
@@ -15,16 +9,15 @@ Geschäftsjahr ist das Kalenderjahr.
 
 ## § 2 Zweck und Gemeinnützigkeit
 
-1. Der Verein Liebe Chaos Verein dient der Förderung von Kunst und Kultur, die sich als spielerisch, gemeinschaftlich, nicht gewinnoriertiert und nicht zu sehr definiert. Der Verein Liebe Chaos Verein fördert und unterstützt jegliche Vorhaben, welche gemeinnützig, künstlerisch und kollektiv umgesetzt werden und verantwortliches, kritisches, gleichberechtigtes und solidarisches Handeln fördern, Scheitern ermöglichen, sowie Dezentralisierung und Selbstorganisation in sich tragen.
+1. Der Verein Liebe Chaos Verein e.V. dient der Ausarbeitung, Erprobung und Erforschung neuer Formate von Kunst und Kultur, die dezentral, gleichberechtigt und selbstorganisiert produziert werden. Dies sind Vorhaben, die ihre Teilnehmer/innen zum eigenständigen und eigenverantwortlichen Handeln anleiten. Hiermit soll ein öffentlicher Diskurs über die Rolle von Kunst und Kultur in einer demokratischen Gesellschaft angeregt werden.
 
-    Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
+    Dieses Ziel soll insbesondere verwirklicht werden durch:
 
-    * Dachorganisation verschiedener Projekte
-    * Ermöglichung von konstruktiver Zusammenarbeit und safe spaces zum Experimentieren
-    * Bereitstellung von Möglichkeiten sich auszutauschen und voneinander zu lernen
-    * Transparente Publikation der durch die Vereinsmitglieder entwickelten Modelle
-    * Gemeinsame Sammlung, Teilung und Organisation von Ressourcen, Zeit, Orten, Fähigkeiten und Wissen
-    * Unmittelbare Vernichtung des Vereins im Falle von Korruption
+    * die Durchführung und Förderung von neuen Kulturformaten in Form von Veranstaltungen wie Festivals, Ausstellungen, Konzerten und ähnlichem
+    * Forschungsprojekten zur Untersuchung neuer Formate von Kunst und Kultur, deren Ergebnisse frei und öffentlich verfügbar gemacht werden
+    * die Organisation von öffentlichen Lesungen, Diskussionsforen, Workshops und ähnlichem zur Vermittlung der Projektergebnisse
+    * die Veröffentlichung von künstlerischen und wissenschaftlichen Publikationen
+    * die Entwicklung von quelloffener, frei verfügbarer Software, die dem Vereinszweck förderlich ist.
 
 2. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung 1977 (§51ff AO) in der jeweils gültigen Fassung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -107,7 +100,7 @@ Organe des Vereins sind:
 ## § 9 Vorstand
 
 1. Der Vorstand besteht mindestens aus drei Mitgliedern:
-    
+
     * I. Vorsitzende/r
     * II. Vorsitzende/r
     * Kassierer/in
@@ -126,4 +119,4 @@ Organe des Vereins sind:
 
 ## § 11 Auflösung des Vereins
 
-Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende, gemeinnützige Körperschaft des öffentlichen Rechts.
+Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine andere steuerbegünstigte Körperschaft, deren Zweck (entsprechend §§ 52, 53, 54 AO) die Förderung von Kunst und Kultur ist.
